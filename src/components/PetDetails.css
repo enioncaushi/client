@@ -1,0 +1,13 @@
+.adopt {
+    display: flex;
+    justify-content: space-between;
+}
+.adopt button {
+    background-color: red;
+}
+.form-group {
+    text-align: center;
+}
+.form-group button {
+    background-color: green;
+}

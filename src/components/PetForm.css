@@ -1,0 +1,10 @@
+button {
+    background-color: blue;
+}
+.nav button {
+    background-color: white;
+}
+
+.form-group {
+    padding-bottom: 20px;
+}
